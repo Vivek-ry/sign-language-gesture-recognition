@@ -56,7 +56,7 @@ pip install tensorflow keras torch torchvision torchaudio opencv-python mediapip
 ### Running the Project
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/PavanTejaSripati/hand-gesture-recognition-for-sign-language-communication.git
+git clone https://github.com/Vivek-ry/sign-language-gesture-recognition.git
 cd hand-gesture-recognition-for-sign-language-communication
 ```
 
